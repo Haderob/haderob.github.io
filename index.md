@@ -48,7 +48,11 @@ permalink: /
   <h2>Highlights</h2>
   <div class="timeline">
     <div class="timeline__item">
-      <div class="timeline__date">2025</div>
+      <div class="timeline__date">2026</div>
+      <strong>Outstanding Graduate, Northwestern Polytechnical University.</strong>
+    </div>
+    <div class="timeline__item">
+      <div class="timeline__date">Aug 2025</div>
       <strong>First-author IEEE Internet of Things Journal article accepted</strong> on Gaussian Splatting for next-generation SLAM.
     </div>
     <div class="timeline__item">
