@@ -6,8 +6,8 @@ permalink: /
 
 <section class="hero">
   <div class="hero__content">
-    <p class="eyebrow">M.S. Candidate / Visual SLAM / Robot Perception</p>
-    <h1>Hadero Besufekad Tadele</h1>
+    <p class="eyebrow">PhD Candidate / VLA / Robot Perception</p>
+    <h1>Besufekad Tadele Hadero</h1>
     <p class="lead">I am an M.S. candidate in Computer Science and Technology at Northwestern Polytechnical University, advised by Prof. Yang Tao in the Robot Vision Lab. My work focuses on visual SLAM, 3D Gaussian Splatting, monocular depth estimation, and scalable 3D mapping for autonomous robots and UAVs.</p>
     <div class="actions">
       <a class="button" href="{{ '/assets/files/CV_Besufekad_PhD.pdf' | relative_url }}">Download CV</a>
@@ -30,10 +30,6 @@ permalink: /
       <div>
         <dt>Location</dt>
         <dd>{{ site.location }}</dd>
-      </div>
-      <div>
-        <dt>PhD Search</dt>
-        <dd>Seeking Fall 2026 opportunities</dd>
       </div>
     </dl>
   </aside>

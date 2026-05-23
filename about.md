@@ -6,7 +6,7 @@ permalink: /about/
 
 <h1 class="page-title">About</h1>
 
-<p class="lead">I am an Ethiopian researcher working at the intersection of geometric vision, machine learning, and robot perception. My goal is to build perception systems that help robots and UAVs understand large, changing environments with dense, scalable, and reliable 3D representations.</p>
+<p class="lead">I am a researcher working at the intersection of geometric vision, machine learning, and robot perception. My goal is to build perception systems that help robots and UAVs understand large, changing environments with dense, scalable, and reliable 3D representations.</p>
 
 <section class="section">
   <h2>Biography</h2>
