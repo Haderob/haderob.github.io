@@ -6,7 +6,7 @@ permalink: /publications/
 
 <h1 class="page-title">Publications</h1>
 
-<p class="lead">This page lists confirmed publications and manuscripts in progress. I do not list unconfirmed work as a publication.</p>
+<p class="lead">This page lists confirmed publications and manuscripts in progress.</p>
 
 <section class="section">
   <h2>Journal Articles</h2>

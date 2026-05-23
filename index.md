@@ -32,7 +32,6 @@ permalink: /
       </div>
         <dt>Email</dt>
         <dd>haderob4@gmail.com, haderob4@mail.nwpu.edu.cn</dd>
-      </div>
     </dl>
     <div class="profile-actions">
       <a class="button" href="mailto:{{ site.email }}">Contact Me</a>
